@@ -32,6 +32,9 @@ html {
   text-align: center;
   background-color: rgb(194, 194, 194);
   overflow: hidden;
+  display: flex;
+  align-items: center;
+	justify-content: center;  
 }
 
 .square:hover {
